@@ -1,0 +1,1 @@
+Welcome to the LeetCode Daily Solutions Log! This repository is dedicated to maintaining a daily log of solutions to LeetCode problems. The purpose of this repository is to document the progress of solving LeetCode problems on a daily basis, offering a resource for learning and tracking improvement over time.
